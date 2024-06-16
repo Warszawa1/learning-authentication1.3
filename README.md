@@ -8,13 +8,13 @@ In the next projects, I explored various levels of authentication and security m
 📦 Dependencies
 This project relies on the following dependencies:
 
-body-parser
-ejs
-express
-pg
-bcrypt
-passport
-dotenv
+-body-parser
+-ejs
+-express
+-pg
+-bcrypt
+-passport
+-dotenv
 
 
 📧 Contact me - iav2020@hotmail.com
