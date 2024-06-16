@@ -12,6 +12,11 @@ body-parser
 ejs
 express
 pg
+bcrypt
+passport
+dotenv
+
+
 📧 Contact me - iav2020@hotmail.com
 
 Project Link: https://github.com/warszawa1/learning-authentication1.3
